@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\2025\\ESP\\API_ESP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF03403-1751-4106-9803-CD1968CA2CD4}|API_ESP\\API_ESP.csproj|p:\\2025\\esp\\api_esp\\api_esp\\api_esp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7CF03403-1751-4106-9803-CD1968CA2CD4}|API_ESP\\API_ESP.csproj|solutionrelative:api_esp\\api_esp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API_ESP",
+              "DocumentMoniker": "P:\\2025\\ESP\\API_ESP\\API_ESP\\API_ESP.csproj",
+              "RelativeDocumentMoniker": "API_ESP\\API_ESP.csproj",
+              "ToolTip": "P:\\2025\\ESP\\API_ESP\\API_ESP\\API_ESP.csproj",
+              "RelativeToolTip": "API_ESP\\API_ESP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T13:44:59.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
