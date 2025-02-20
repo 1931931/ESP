@@ -1,0 +1,16 @@
+﻿<Window x:Class="InterfacesESP.Validation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfacesESP"
+        mc:Ignorable="d"
+        Title="Validation" Height="640" Width="480" Background="#eceac4">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Panel.ZIndex="2" Background="#eceac4" Height="170" Margin="0,50,0,0" FontSize="40" TextWrapping="Wrap" TextAlignment="Center" Text="Veuillez payer à la borne à l'intérieur lors de votre départ" VerticalAlignment="Top" Width="410"/>
+        <Image HorizontalAlignment="Center" Height="210" Panel.ZIndex="2" Margin="0,342,0,0" VerticalAlignment="Top" Width="198" Source="img/ticketblue.jpg" />
+        <Rectangle HorizontalAlignment="Center" Panel.ZIndex="1" Fill="#8f8294" Height="269" Stroke="Black" VerticalAlignment="Top" Width="480"/>
+        <Rectangle HorizontalAlignment="Center" Height="229" Panel.ZIndex="1" Margin="0,327,0,0" Stroke="DarkBlue" Fill="#00aee0" VerticalAlignment="Top" Width="252"/>
+
+    </Grid>
+</Window>
