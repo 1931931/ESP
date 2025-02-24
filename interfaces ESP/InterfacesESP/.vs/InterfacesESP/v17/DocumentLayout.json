@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\administration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\administration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\administration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\administration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\interfaces esp\\interfacesesp\\interfacesesp\\paiement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\paiement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\validation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\validation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\interfacesesp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2CA0036-0607-4FDF-9EE3-06655B7E359D}|InterfacesESP\\InterfacesESP.csproj|solutionrelative:interfacesesp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paiement.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Paiement.xaml",
+              "RelativeDocumentMoniker": "InterfacesESP\\Paiement.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Paiement.xaml",
+              "RelativeToolTip": "InterfacesESP\\Paiement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:00:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administration.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Administration.xaml",
+              "RelativeDocumentMoniker": "InterfacesESP\\Administration.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Administration.xaml",
+              "RelativeToolTip": "InterfacesESP\\Administration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:00:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "InterfacesESP\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainViewModel.cs",
+              "RelativeToolTip": "InterfacesESP\\MainViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAArAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhP3dK9TxNhHMDx3/P02mu50p5IaSNoCLS\u002BkEuJEN4aNTB0IDiYIBJMNyZXRTBxcBNnnUBHEgaHTgy1CaVOphJICBhaG\u002Bi1R6XHlfZK27v22nucjIn\u002BBfrZv9sX4J9nAACIkAg1NzPHWketrXVvnXHedzL9j/rpwECgtrW1hcZmxi6Jt0VL4GlAW3m90nZ669TsGHBofJTXMSEE40M8LCtysIZre0wrs2ejbHssYj/mvLn2Y\u002BnYo2hK0KSbgnyGH85X85/VhhoUKGEYXgGmQgchNlPILG0L20Muq8voG/Ed0hTdqGpVyXPZY6lr9WebyU0uU8hAUkouAoZuoSQ4iU4eu8G9T4XjYapcL1\u002BjEAWTNye/GpDhBQFSklRJ6WnpyREga0NXh\u002B7FxTgYsXFtmpu\u002Bm5WzZxe1i0\u002Bd0FmlwkdhcLW4YPDK4JGqqfN\u002Bzh9HCOkAAIQQnJWyot1i10wGE\u002BqwdojtTLtOG2kNI1yMQlTHAABNvQmAoJEsJfO/YgAAWZbZcqP8fn1nvTchJXoiyciHhY0FNiEm3E1oPu\u002Bz9bGUz\u002BkDFamQKqbMhWqBC\u002B2HzgEAxKKo7BZ2\u002BS5j15L/un9JqkjIgAwr8yPzi6tfVuWUnHrnKDlK1MTARCN3lkvH0rE7TdJ8mzpPaTRFQ0WrJHZ\u002B7DwZHxuPpS/Si6yZhaneKZ7r4HjWzGpqTU1HX0YbiBCCN/Y3Rk8KJ28i3yM3hJIAdosdutu6D2zENrs8u3z2e5u/YYSQznBMjG1jH4AO3mK16FVUxasS9aHpmyn/Z/Af\u002BgnU5B69svpg\u002BgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-20T20:00:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Administration.xaml.cs",
+              "RelativeDocumentMoniker": "InterfacesESP\\Administration.xaml.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Administration.xaml.cs",
+              "RelativeToolTip": "InterfacesESP\\Administration.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:00:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validation.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Validation.xaml",
+              "RelativeDocumentMoniker": "InterfacesESP\\Validation.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\Validation.xaml",
+              "RelativeToolTip": "InterfacesESP\\Validation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:00:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InterfacesESP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainWindow.xaml",
+              "RelativeToolTip": "InterfacesESP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:00:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InterfacesESP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\interfaces ESP\\InterfacesESP\\InterfacesESP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InterfacesESP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHtSURBVDhP7ZO9ixNRFMXPm52XTD6JZjdkkllJshpkWNbFwiK4wlSLgiFgq4iVrZ3bhYCFf4BiL2thZRyIECysnMbGYg0aO3FmnjFEyZpJcF5eLMwMwrII1v7gNvdcDudyuQRL7j072FbkSLeYiUpUIteyP9ctwyA80I\u002BD4GZ3GwCunstWL5RSj16\u002B\u002B542qulX\u002BonDBy\u002BePPzkeR4AoFAooNFocADvDcMIjWXMyR0AeN0fn/z2g8c/ME/eWKMXz68tTpXL5annefB9HwAwHA7HqqruWZb1tlarTX8nuN7NAcDdK8XN0mrs6WPry\u002BrtS3nsnI5hPjuEEAKMMZimidlsJur1\u002BsdkMnnL9/03hmFwCfu7A\u002BzvDvJpOuJ8LvYur2OnmkScAolEAqlUCvF4HIvFAqPRSDJN84zruvcBnAUAKdilRB1sKANsFWTEVgSEEIEESilyuRxUVYWiKJJlWel2uy0DwEowlM9m8l/dzze2NvWELIdtAEAkEoGmadB1HZVKBf1\u002Bn9m2/bzX67EwgeM4cBwHnB\u002B9XJCgWCxCVVVQSkMtNPhX/hv8YUApBSEEjDHYtn1sMcbAOQ8vIQcGiqJMJUk66HQ6WUJI0D6CEAKTyaSvKMryF5Y0m03Zdd2M53l/XSsajXJN08atVov/An2EwKjyg7dMAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-02-20T20:00:22.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

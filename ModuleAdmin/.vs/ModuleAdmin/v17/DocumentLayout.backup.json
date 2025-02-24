@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\2025\\ESP\\ModuleAdmin\\",
+  "WorkspaceRootPath": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\data\\context\\moduleadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\data\\context\\moduleadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\moduleadminfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\moduleadminfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\moduleadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\view\\pageprincipale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\view\\pageprincipale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\model\\tarifdynamique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\model\\tarifdynamique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\model\\tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\model\\tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\model\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\model\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|c:\\users\\1931931\\desktop\\esp\\esp\\moduleadmin\\moduleadmin\\moduleadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\moduleadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|p:\\2025\\esp\\moduleadmin\\moduleadmin\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C886A5-BBA7-4067-AFD5-996E301E4494}|ModuleAdmin\\ModuleAdmin.csproj|solutionrelative:moduleadmin\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +58,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\appsettings.json",
-              "RelativeDocumentMoniker": "ModuleAdmin\\appsettings.json",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\appsettings.json",
-              "RelativeToolTip": "ModuleAdmin\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T15:29:31.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ModuleAdmin\\App.xaml.cs",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml.cs",
-              "RelativeToolTip": "ModuleAdmin\\App.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvykAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:26:59.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml",
-              "RelativeDocumentMoniker": "ModuleAdmin\\App.xaml",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml",
-              "RelativeToolTip": "ModuleAdmin\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-10T15:26:57.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModuleAdminContext.cs",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\Data\\Context\\ModuleAdminContext.cs",
-              "RelativeDocumentMoniker": "ModuleAdmin\\Data\\Context\\ModuleAdminContext.cs",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\Data\\Context\\ModuleAdminContext.cs",
-              "RelativeToolTip": "ModuleAdmin\\Data\\Context\\ModuleAdminContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:21:00.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Admin.cs",
-              "RelativeDocumentMoniker": "ModuleAdmin\\Model\\Admin.cs",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Admin.cs",
-              "RelativeToolTip": "ModuleAdmin\\Model\\Admin.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:20:41.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModuleAdmin",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
-              "RelativeDocumentMoniker": "ModuleAdmin\\ModuleAdmin.csproj",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
-              "RelativeToolTip": "ModuleAdmin\\ModuleAdmin.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T15:13:37.842Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "ModuleAdmin\\appsettings.json",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\appsettings.json",
+              "RelativeToolTip": "ModuleAdmin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T20:34:24.554Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ModuleAdmin\\MainWindow.xaml",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml",
               "RelativeToolTip": "ModuleAdmin\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-10T15:13:19.847Z",
+              "WhenOpened": "2025-02-20T21:33:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tarif.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Tarif.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\Model\\Tarif.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Tarif.cs",
+              "RelativeToolTip": "ModuleAdmin\\Model\\Tarif.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:07:57.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarifDynamique.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\TarifDynamique.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\Model\\TarifDynamique.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\TarifDynamique.cs",
+              "RelativeToolTip": "ModuleAdmin\\Model\\TarifDynamique.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:07:56.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Employe.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\Model\\Employe.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\Model\\Employe.cs",
+              "RelativeToolTip": "ModuleAdmin\\Model\\Employe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:06:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleAdminFactory.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdminFactory.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\ModuleAdminFactory.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdminFactory.cs",
+              "RelativeToolTip": "ModuleAdmin\\ModuleAdminFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:33:00.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\View\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\Login.xaml.cs",
+              "RelativeToolTip": "ModuleAdmin\\View\\Login.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:27:33.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ModuleAdmin\\MainWindow.xaml.cs",
-              "ToolTip": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ModuleAdmin\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ModuleAdmin\\ViewModel\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "ModuleAdmin\\ViewModel\\LoginVM.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:13:19.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T21:30:44.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml",
+              "RelativeDocumentMoniker": "ModuleAdmin\\App.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\App.xaml",
+              "RelativeToolTip": "ModuleAdmin\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:13:28.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagePrincipale.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\PagePrincipale.xaml",
+              "RelativeDocumentMoniker": "ModuleAdmin\\View\\PagePrincipale.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\PagePrincipale.xaml",
+              "RelativeToolTip": "ModuleAdmin\\View\\PagePrincipale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T21:25:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "ModuleAdmin\\View\\Login.xaml",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\View\\Login.xaml",
+              "RelativeToolTip": "ModuleAdmin\\View\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T20:07:02.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleAdmin.csproj",
+              "DocumentMoniker": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
+              "RelativeDocumentMoniker": "ModuleAdmin\\ModuleAdmin.csproj",
+              "ToolTip": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
+              "RelativeToolTip": "ModuleAdmin\\ModuleAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T20:03:32.501Z"
             }
           ]
         }

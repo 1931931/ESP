@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-P:\2025\ESP\ModuleAdmin\ModuleAdmin\obj\Debug\net6.0-windows\
+C:\Users\1931931\Desktop\ESP\ESP\ModuleAdmin\ModuleAdmin\obj\Debug\net6.0-windows\
 ModuleAdmin
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-P:\2025\ESP\ModuleAdmin\ModuleAdmin\App.xaml
-11407045341
+C:\Users\1931931\Desktop\ESP\ESP\ModuleAdmin\ModuleAdmin\App.xaml
+31901476310
 
-13-460477258
+18524121573
 335719586325
-MainWindow.xaml;
+MainWindow.xaml;View\Login.xaml;View\PagePrincipale.xaml;
 
 False
 

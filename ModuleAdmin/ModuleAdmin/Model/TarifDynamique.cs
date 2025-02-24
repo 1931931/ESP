@@ -15,6 +15,7 @@ namespace ModuleAdmin.Model
         public int HeureFin { get; set; }
         public int TarifId { get; set; }
         public Tarif? Tarif { get; set; }
+        //Optionel
         public bool AncreHoraire { get; set; }
         public bool AncreDemiJour { get; set; }
         public bool AncrePleinJour { get; set; }

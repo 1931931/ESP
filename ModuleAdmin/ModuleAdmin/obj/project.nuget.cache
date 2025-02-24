@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "stRAhmRBL14=",
+  "dgSpecHash": "Dw+eKlVkekY=",
   "success": true,
-  "projectFilePath": "P:\\2025\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
+  "projectFilePath": "C:\\Users\\1931931\\Desktop\\ESP\\ESP\\ModuleAdmin\\ModuleAdmin\\ModuleAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1931931\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\1931931\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
